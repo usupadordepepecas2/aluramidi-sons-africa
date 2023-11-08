@@ -1,4 +1,4 @@
-unction tocaSomPom() {
+function tocaSomPom() {
     document.querySelector('#som_tecla_pom').play();
 }
 
@@ -86,6 +86,11 @@ function tocaSomTom() {
 }
 
 document.querySelector('.tecla_tom').onclick = tocaSomTom;
+
+
+
+
+
 
 
 
