@@ -3,7 +3,6 @@ function tocaSomLeão() {
 }
 
 document.querySelector('.tecla_leão').onclick = tocaSomLeão;
-  
 
 
 
