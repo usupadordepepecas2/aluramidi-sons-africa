@@ -1,8 +1,8 @@
-function tocaSomLeão() {
-    document.querySelector('#som_tecla_leão').play();
+function tocaSompom() {
+    document.querySelector('#som_tecla_pom').play();
 }
 
-document.querySelector('.tecla_leão').onclick = tocaSomLeão;
+document.querySelector('.tecla_leão').onclick = tocaSomPom;
 
 
 
