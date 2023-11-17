@@ -1,5 +1,5 @@
-function tocaSomPom() {
-    document.querySelector('#som_tecla_pom').play();
+function tocaSomLeão() {
+    document.querySelector('#som_tecla_leão').play();
 }
 
 document.querySelector('.tecla_pom').onclick = tocaSomPom;
