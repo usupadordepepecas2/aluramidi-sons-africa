@@ -6,7 +6,7 @@ document.querySelector('.tecla_leão').onclick = tocaSomLeão;
 
 
 
-function tocaSomClap() {
+function tocaSomBabuíno() {
     document.querySelector('#som_tecla_clap').play();
 }
 
