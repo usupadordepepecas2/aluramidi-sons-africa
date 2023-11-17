@@ -6,8 +6,8 @@ document.querySelector('.tecla_leão').onclick = tocaSomPom;
 
 
 
-function tocaSomBabuíno() {
-    document.querySelector('#som_tecla_clap').play();
+function tocaSomClap() {
+    document.querySelector('#som_tecla_babuíno').play();
 }
 
 document.querySelector('.tecla_clap').onclick = tocaSomClap;
